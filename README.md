@@ -8,11 +8,6 @@
   <em>"Numbers have an important story to tell. They rely on you to give them a clear and convincing voice."</em>
 </p>
 
-
-<p align="center">
-  <em>"Numbers have an important story to tell. They rely on you to give them a clear and convincing voice."</em>
-</p>
-
 ---
 
 ## 🚀 Overview  

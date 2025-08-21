@@ -1,8 +1,13 @@
-# 📊 Data Analysis Project
+# 📊 Data Analysis Projects
 
 <p align="center">
-  <img src="https://img.icons8.com/color/96/analytics.png" alt="Project Logo" width="120"/>
+  <img src="https://img.shields.io/badge/Data-Analysis-blue?style=for-the-badge&logo=python&logoColor=white" alt="Data Analysis Logo"/>
 </p>
+
+<p align="center">
+  <em>"Numbers have an important story to tell. They rely on you to give them a clear and convincing voice."</em>
+</p>
+
 
 <p align="center">
   <em>"Numbers have an important story to tell. They rely on you to give them a clear and convincing voice."</em>

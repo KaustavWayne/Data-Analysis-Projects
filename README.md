@@ -1,4 +1,4 @@
-# 📊 Data Analysis Projects
+# 📊 DATA ANALYSIS PROJECT
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data-Analysis-blue?style=for-the-badge&logo=python&logoColor=white" alt="Data Analysis Logo" width="600"/>

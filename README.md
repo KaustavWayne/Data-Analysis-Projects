@@ -1,7 +1,7 @@
 # 📊 Data Analysis Projects
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data-Analysis-blue?style=for-the-badge&logo=python&logoColor=white" alt="Data Analysis Logo"/>
+  <img src="https://img.shields.io/badge/Data-Analysis-blue?style=for-the-badge&logo=python&logoColor=white" alt="Data Analysis Logo" width="600"/>
 </p>
 
 <p align="center">
